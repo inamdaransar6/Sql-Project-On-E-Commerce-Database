@@ -1,3 +1,2 @@
-# Sql-Project-On-E-Commerece-Data
-I have used e-commerce data to retrive useful information from it 
-to give meaningful insights for business growth.
+# Sql-Project-On-E-Commerce-Data
+This project involved architecting a relational database for an e-commerce platform using MySQL. I developed a normalized schema comprising Customers, Products, and Orders tables, ensuring data integrity through relational constraints. I then authored a suite of 25 analytical queries to extract critical KPIs, such as revenue trends, customer acquisition patterns, and high value order segments, providing a view of business operations.This project was designed to transform raw transactional data into actionable business intelligence.
